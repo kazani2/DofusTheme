@@ -1,0 +1,14 @@
+[
+  { 
+    "author" : "Gio", 
+    "name" : "Theme1", 
+    "keyWords" : "theme, first", 
+    "version" : "1.0", 
+    "dofusVersion" : "2.46", 
+    "description" : "First theme", 
+    "url" : ".zip", 
+    "previewUrl" : ".png", 
+    "creationDate" : "29/05/2018", 
+    "modificationDate" : "29/05/2018"
+  }
+]
