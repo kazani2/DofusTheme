@@ -3,12 +3,12 @@
     "author" : "Gio", 
     "name" : "Theme1", 
     "keyWords" : "theme, first", 
-    "version" : "1.0.1", 
+    "version" : "1.0.2", 
     "dofusVersion" : "2.46", 
     "description" : "First theme", 
     "url" : "https://rawgit.com/kazani2/DofusTheme/master/gio.zip", 
-    "previewUrl" : "https://github.com/kazani2/DofusTheme/blob/master/gioPreview.jpg", 
+    "previewUrl" : "https://raw.githubusercontent.com/kazani2/DofusTheme/master/gioPreview.jpg", 
     "creationDate" : "29/05/2018", 
-    "modificationDate" : "30/05/2018"
+    "modificationDate" : "31/05/2018"
   }
 ]
