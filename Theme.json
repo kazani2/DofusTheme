@@ -6,7 +6,7 @@
     "version" : "1.0.2", 
     "dofusVersion" : "2.46", 
     "description" : "First theme", 
-    "url" : "https://rawgit.com/kazani2/DofusTheme/master/gio.zip", 
+    "url" : "https://cdn.jsdelivr.net/gh/kazani2/DofusTheme@master/gio.zip", 
     "previewUrl" : "https://raw.githubusercontent.com/kazani2/DofusTheme/master/gioPreview.jpg", 
     "creationDate" : "29/05/2018", 
     "modificationDate" : "31/05/2018"
